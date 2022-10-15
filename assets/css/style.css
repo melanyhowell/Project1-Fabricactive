@@ -51,6 +51,14 @@ li a {
     text-transform: uppercase;
 }
 
+.mobile-menu {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cccccc
+}
+
 /*----------------------------------------Body*/
 
 body {
@@ -95,8 +103,8 @@ footer p {
 .address {
     color:#e0e0e0;
     font-size: 75%;
-    padding-left: 75px;
-    padding-right: 75px;
+    padding-left: 45px;
+    padding-right: 45px;
 }
 
 .btn-outline {
@@ -104,4 +112,8 @@ footer p {
     color: #fca311;
     margin-top: 10px;
     text-transform: uppercase;
+}
+
+footer h4 {
+    margin-top: 15px;
 }
