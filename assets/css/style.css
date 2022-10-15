@@ -28,7 +28,7 @@ header div {
 }
 
 #menu {
-    font-size: 115%;
+    font-size: 105%;
     list-style-type: none;
     letter-spacing: 3px;
 }
@@ -67,7 +67,6 @@ a:hover {
     width:2em;
     height: 2em;
 }
-
 
 /*----------------------------------------Body*/
 
