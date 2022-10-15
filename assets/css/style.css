@@ -81,6 +81,11 @@ body {
     width: 100%;
     background: url("../images/main-imagesm.jpg") no-repeat center center;
 }
+
+.descrip-image {
+    height: 60%;
+    width: 100%;
+}
 /*----------------------------------------Footer*/
 
 footer {
