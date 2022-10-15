@@ -63,35 +63,30 @@
     <section>
         <br>
         <div>
-            <h5>Contact Us</h5>
-            <p>If you are interested in contacting us about any of our product ranegs or have any questions, we'd love for you to get in touch with us.
+            <h5 class="contact-heading">Contact Us</h5>
+            <p class="contact-text">If you are interested in contacting us about any of our product ranegs or have any questions, we'd love for you to get in touch with us.
                 Please allow us 1-2 working days to get back to you so we can give you the best service possible.
             </p>
-        </div>
-        <div>
-            <form action="https://formdump.codeinstitute.net" method="POST">
-                <fieldset>
-                    <legend>Your Details</legend>
-                    <div>
-                        <label for="name-field">Name</label>
-                        <input id="name-field" type="text" name="full_name" placeholder="Your name" required>
-                    </div>
-                    <div>
-                        <label for="email-field">Email</label>
-                        <input id="email-field" type="email" name="email" placeholder="Your email" required>
-                    </div>
-                    <fieldset>
-                        <br>
-                        <legend>Your Message</legend>
-                        <label for="feedback">What do you want to ask us?</label>
-                        <br>
-                        <textarea id="feedback" rows="4" cols="87" name="feedback"></textarea>
-                    </fieldset>
+            <div class="g-3">
+            <form method="get" action="formdestination.html">
+                <div class="name">
+                 <input type="text" class="form-control" placeholder="First name" aria-label="First name" required>
+                </div>
+                <div class="email">
+                 <input type="email" class="form-control" placeholder="Email Address" aria-label="Email" required>
+                </div>
+                <div class="message">
+                    <label for="MessageBox" class="form-label"></label>
+                    <textarea class="form-control" placeholder="Please add you message here" id="MessageBox" rows="6"></textarea>
+                </div>
+                <div>
                     <button type="submit">
                         <strong>Submit</strong>
                     </button>
                     <input type="reset" value="Reset Form">
-                </form>
+                </div>
+            </form>
+            </div>
         </div>
         <br>
     </section>

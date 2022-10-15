@@ -132,6 +132,23 @@ section h3 {
     border-radius: 10%;
     background-color: #14213d;
     color:#fca311
+    
+}
+
+.g-3 {
+    padding-right: 100px;
+    Padding-left: 100px;
+}
+
+.contact-heading {
+    text-transform: uppercase;
+    padding-left: 30px;
+}
+
+.contact-text {
+   padding-left: 100px;
+   padding-right: 100px;
+   padding-top: 20px;
 }
 
 /*----------------------------------------Footer*/
