@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700&family=Oswald:wght@300;400;500;600&display=swap');
+
+/*----------------------------------------Colours*/
+
+
+/*----------------------------------------Header*/
+
+header {
+    margin: 0;
+    padding: 75px;
+    background-color: #14213d
+    ;
+}
+
+header div {
+    line-height: 48px;
+}
+
+.h2, h2 {
+    font-family: Figtree;
+    font-size: 300%;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #fca311;
+    float: left;
+    text-decoration: none;
+    padding-top: 25px;
+}
+
+#menu {
+    font-size: 115%;
+    list-style-type: none;
+    letter-spacing: 3px;
+}
+
+#menu li {
+    font-family: Oswald;
+    text-align: center;
+    display: inline;
+    float: right;
+    margin: 2px;
+    background-color: rgb(15, 15, 15, 0.5);
+    padding: 3px;
+    border-radius: 5%;
+    width: 30%;
+}
+
+li a {
+    text-decoration: none;
+    color: #fca311;
+    text-transform: uppercase;
+}
+
+/*----------------------------------------Body*/
+
+body {
+    background-color: #cccccc;
+    background-size: cover;
+    margin: 0;
+}
+
+/*----------------------------------------Footer*/
+
+footer {
+    background-color: #14213d;
+    text-align: center;
+    min-height: 150px;
+    margin: 0;
+    font-size: 115%;
+    width: 100%;
+}
+
+footer h4 {
+    font-size: 90%;
+    color: #fca311;
+}
+
+footer a {
+    color: #e0e0e0;
+    text-decoration: none;
+    letter-spacing: 10px;
+    font-size: 125%;
+    margin-top: 20px;
+}
+
+.developer-name {
+    margin-top: 20px
+}
+
+footer p {
+    color:#e0e0e0;
+    font-size: 75%;
+}
+
+.address {
+    color:#e0e0e0;
+    font-size: 75%;
+    padding-left: 75px;
+    padding-right: 75px;
+}
+
+.btn-outline {
+    border-color: #fca311;
+    color: #fca311;
+    margin-top: 10px;
+    text-transform: uppercase;
+}
