@@ -76,6 +76,11 @@ body {
     margin: 0;
 }
 
+#business-image {
+    height: 400px;
+    width: 100%;
+    background: url("../images/main-imagesm.jpg") no-repeat center center;
+}
 /*----------------------------------------Footer*/
 
 footer {
