@@ -172,7 +172,7 @@ The features I have utilised are intended to be used to create an easy flowing e
 + Logo - allows identification of brand and a clickable link to take you back to the default landing page
 + Navigational Bar - Allows access to all pages throughout the site at all times.
 
-![Header](/assets/readme-images/formconfirmation-page-wirframes.png)
+![Header](/assets/readme-images/header-nav.png)
 
 #### Home
 
@@ -258,30 +258,38 @@ The site was deployed to GitHub pages.
 
 ### Content
 
-+ Issues I used the following references;
-    + [W3Schools](https://www.w3schools.com/)
-    + [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 + Mentor Harry gave a great insight into the how the layout should be progressed
 + For my README.md I saught inspiration from [Tasha Taylor Johnsons's Repository](https://github.com/TashaTJ/pawsome-portraits-v4/blob/main/README.md) as her layout really helped me understand what is expected from creating my first README.
 
 
 ### Media
 
-obtained from the free photo sites such as 
-+ [Pexels]() for BAckground Image
-+
-+
+Obtained from the free photo sites such as 
++ [Pexels](https://www.pexels.com/) for Background Image
++ [unspalsh](https://unsplash.com/)
+
++ [Wendy van Zyl – pexels](https://www.pexels.com/photo/selective-focus-photography-of-assorted-coloured-thread-spools-1212179/)
++ [Surene Palvie – pexels](https://www.pexels.com/photo/assorted-color-yarns-on-brown-wicker-basket-2070676/)
++ [DESIGNECOLOGIST  - unsplash](https://www.pexels.com/photo/leaves-hang-on-rope-1389460/)
++ [Ekaterina Grosheva  - unsplash](https://unsplash.com/photos/wcdHwuFJfn4)
++ [Vitalijs Barilo - unsplash](https://unsplash.com/photos/azMZaQCUyV8)
+
+
+
 
 ### Code
 
-+ W3schools helped provide some great examples I could use for my own work with modification
-+ YouTube 
++ Issues I used the following references;
+    + [W3Schools](https://www.w3schools.com/)
+    + [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+    + [Code Institute](https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+CSE101+2020_Q2/courseware/be0e510a3aca4bccb6e0bba4cf7cf06b/5255d165b5284d728b13bd224144d984/)
+    + [MDN](https://developer.mozilla.org/en-US/)
 
 
 ## Acknowledgements
 
-This Site was developed for the purpose of my portfolio 1 Project for the full stack diploma
-+Thanks to Mentor
-+ Fiber Active is a fully fictional brand and product
+This Site was developed for the purpose of my portfolio 1 Project for the full stack diploma.
+Thanks to my Mentor Harry Dhillon for his support.
+
 
 Melany Howell 2022
