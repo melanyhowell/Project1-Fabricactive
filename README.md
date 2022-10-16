@@ -1,6 +1,6 @@
-# Portfoliw Project 1 - HTML/CSS Essentials
+# Portfolio Project 1 - HTML/CSS Essentials
 
-Fiber Active is a company that has created a specialised material that is Eco friendly, comfortable and outperforms other outdoor materials in its field. [This Site](git hub address)is here to explain firstly what Fibre Active is about and alsoo the product they ahve just developed and are ready to sell.
+Fiber Active is a company that has created a specialised material that is Eco friendly, comfortable and outperforms other outdoor materials in its field. [This Site](git hub address)is here to explain firstly what Fibre Active is about and also the product they ahve just developed and are ready to sell.
 
 
 Picture of front page
@@ -13,7 +13,7 @@ Picture of front page
 
 
 
-##Repository
+## Repository
 [full website address](full website address)
 
 
@@ -25,7 +25,7 @@ Picture of front page
 
 ---
 
-##Key Project Goals
+## Key Project Goals
 This project has 2 main requirments:
 + Build a static front-end site that presents relevant data in an clear and effective way using all the technologies I have learned so far regarding HTML & CSS langauages.
 + Exhibit the required data to allow users to learn more about the brand/product and even make an infomed decision on wether to make a purchase, and the owners to accomplish their goals of marketing themselves and their product to users.
