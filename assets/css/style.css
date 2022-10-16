@@ -8,8 +8,7 @@
 header {
     margin: 0;
     padding: 75px;
-    background-color: #14213d
-    ;
+    background-color: #14213d;
 }
 
 header div {
@@ -56,7 +55,7 @@ li a {
 }
 
 a:hover {
-    color: #cccccc
+    color: #cccccc;
 }
 
 .container-fluid {
@@ -87,9 +86,9 @@ body {
 }
 
 #descrip-image {
-    height:300px;
+    height: 300px;
     width: 100%;
-    margin:auto;
+    margin: auto;
     
     background: url("../images/form-imagesm.jpg") no-repeat center center;
 }
@@ -122,7 +121,7 @@ section h3 {
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 20px;
-    text-align:center
+    text-align:center;
 }
 
     
@@ -263,7 +262,7 @@ footer a:hover {
 }
 
 .developer-name {
-    margin-top: 20px
+    margin-top: 20px;
 }
 
 footer p {
