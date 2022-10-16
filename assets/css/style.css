@@ -90,7 +90,7 @@ body {
     background: url("../images/form-imagesm.jpg") no-repeat center center;
 }
 
-.description-link {
+.body-link {
     background-color: #14213d;
     border-radius: 5%;
     color: #cccccc;
@@ -98,7 +98,7 @@ body {
 
 }
 
-.description-link:hover {
+.body-link:hover {
     color: #fca311;
 }
 
@@ -229,6 +229,23 @@ footer h4 {
     color: #fca311;
 }
 
+.footer-button {
+    border-color: #fca311;
+    color: #fca311;
+    padding: 1px;
+    text-transform: uppercase;
+    border-style: solid;
+    border-radius: 7%;
+    font-size: 100%;
+    letter-spacing: 0px;
+    border-width: 1.5px;
+   }
+
+.footer-button:hover {
+    color: #cccccc;
+    border-color: #cccccc;
+}
+
 footer a {
     color: #e0e0e0;
     text-decoration: none;
@@ -257,18 +274,6 @@ footer p {
     padding-right: 45px;
 }
 
-.btn-outline {
-    border-color: #fca311;
-    color: #fca311;
-    margin-top: 20px;
-    text-transform: uppercase;
-}
-
-.btn-outline:hover {
-    color:#cccccc;
-    border-color: #cccccc;
-}
-
 footer h4 {
     margin-top: 15px;
 }
@@ -277,4 +282,5 @@ footer h4 {
     letter-spacing: 50px;
     font-size: 110%;
     padding-top: 15px;
+    padding-bottom: 15px;
 }
