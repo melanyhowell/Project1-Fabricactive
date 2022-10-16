@@ -16,6 +16,10 @@ header div {
     line-height: 48px;
 }
 
+.home-page-space {
+    margin-top: 20px;
+}
+
 .h2, h2 {
     font-family: Figtree;
     font-size: 300%;
