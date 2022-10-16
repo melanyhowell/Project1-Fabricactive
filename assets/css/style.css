@@ -90,6 +90,18 @@ body {
     background: url("../images/form-imagesm.jpg") no-repeat center center;
 }
 
+.description-link {
+    background-color: #14213d;
+    border-radius: 5%;
+    color: #cccccc;
+    padding: 5px;
+
+}
+
+.description-link:hover {
+    color: #fca311;
+}
+
 .history {
     width: 500px;
     margin: auto;
