@@ -1,108 +1,220 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Portfoliw Project 1 - HTML/CSS Essentials
 
-Welcome melanyhowell,
+Fiber Active is a company that has created a specialised material that is Eco friendly, comfortable and outperforms other outdoor materials in its field. [This Site](git hub address)is here to explain firstly what Fibre Active is about and alsoo the product they ahve just developed and are ready to sell.
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+Picture of front page
 
-## Gitpod Reminders
+!Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Live Site
+[Fiber Active](https:
 
-`python3 -m http.server`
 
-A blue button should appear to click: _Make Public_,
 
-Another blue button should appear to click: _Open Browser_.
+##Repository
+[full website address](full website address)
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: _Make Public_,
-
-Another blue button should appear to click: _Open Browser_.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
-------
-
-## Release History
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
-
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
-
-**July 2 2021:** Remove extensions that are not available in Open VSX.
-
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
-
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
-
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
-
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
-------
-
-## FAQ about the uptime script
-
-**Why have you added this script?**
-
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
-
-**How will this affect me?**
-
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
-
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
-
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
-
-**So….?**
-
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
-
-**Can I opt out?**
-
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
-
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
-
-**Anything more?**
-
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
 ---
 
-Happy coding!
+## Contents
++[Objectives](#Objectives)
++[Breif](#breif)
+
+---
+
+##Key Project Goals
+This project has 2 main requirments:
++ Build a static front-end site that presents relevant data in an clear and effective way using all the technologies I have learned so far regarding HTML & CSS langauages.
++ Exhibit the required data to allow users to learn more about the brand/product and even make an infomed decision on wether to make a purchase, and the owners to accomplish their goals of marketing themselves and their product to users.
+
+
+## Breif
+The website for Fiber Active needs to promote their knowlege and expertise in the field of outdoor clothing materials, advertising their latest breakthrough on their most recent product that pushes their outdoor clothing ahead of their competition.
+
+The features that have been agreed to and requested by Fiber active are:
++ Introduction to company
++ Detail on company and their research
++ Link to product
++ About product and why it's so special
++ Contact link and Form to request more info on product or company
++ Comapny's social media links
+
+## Target Audience 
+Outdoor enthusiasts, Adventure seekers, other companies that may want to use this material in their own products as a collaborator or reseller & customers.
+
+---
+
+
+## User Exerience: UX
+
+### User Stories
+
+I am a user that requires the following things when using this site;
+
++ Site from inital loading needs to be clear with its purpose
++ Navigation must be smooth and simple
++ Easy to read infomation that isn't too technical
++ Enable me to access the product info and how to buy
++ Straigtforward contact process
++ Be able to see Fiber Active's social presence
++ See who the developer was and what their information is
+
+### Initial Concept
+I want to set forward a professional and clean look for the website while still showing its roots in nature. keeping things uncluttered and clear will help guide the user in quickly utilising the website for their needs. Technology websites like [Apple website](https://www.apple.com/uk/), [OnePlus Website](https://www.oneplus.com/uk) and [Oxford Fabric Website](https://www.oxford-fabric.com/product/)
+
+### Wireframes
+
+I created my Wireframes using [Balsamiq](https://balsamiq.com). Some aspects i have decided to adapt and change due to accomodating design features or requierments that weren't originally anticipated.
+
+#### Phone
+
+![Mobile Wireframes](link to readme images (assets/readme-images/mobile-wireframes.jpg))
+
+#### Tablet
+
+![Tablet Wireframes](link to readme images (assets/readme-images/tablet-wireframes.jpg))
+
+#### Desktop
+
+![Desktop Wireframes](link to readme images (assets/readme-images/desktop-wireframes.jpg))
+
+
+### Site Structure
+
+Fabric Active is 3 pages with the home page being the landing page and all pages and social links accessible from all pages allowing for easy navigation.
+
+### Colour Scheme
+
+Finding a complementry colour scheme that doesn't distract from the goals of the website has been tricky while maintaining an aspect of nature in the features. I had settled on my HEro image and used [My Color space webiste](https://mycolor.space/?hex=%23F76C53&sub=1) to help selct my colour pallette from there.
+I decided to keep the 
++586BA4 Replaced with 45477D 
++324376
++F5DD90 Replaced with F8E8BF
++F68E5F
++F76C53
+
+I replaced two of the above colours due to checking on [Web Aim Website](https://webaim.org/resources/contrastchecker/) and my original colours not passing all the contrast tests.
+
+### Typography
+
+The two fonts selected are Odswald and Figtree imported from [Google Fonts](https://fonts.google.com/) 
+With Sans-serif as the back-up font incase the other fonts do not load.
+
+### Imagery
+
+I have tried to maintain a link to nature with the imagery for the site.
+By using a site like [compressor.io] to compress the files this should allow for faster loading times.
+
+---
+
+## Features
+
+The features I have utilised are intended to be used to create an easy flowing experince for any user, allowing them to easily navigate through the site to find teh infomration they are looking for, enabling a positive user experience.
+
+### Included Features
+
+#### Header
+
++ Logo - allows identification of brand and a clickable link to take you back to the default landing page
++ Navigational Bar - Allows access to all pages throughout the site at all times.
+
+#### Home
+
+Some info on Fabric Active and their objectives.
+
+#### Footer
+
++ Social Media Links for Faric Active brand
++ Contact links that will take you to contact page
++ Social links for Developers Github and Linkedin
+
+### Product Page
+
+#### Gallery
+
+Simple clean pictures showing the product and its features such as hidden pockets etc.
+
+#### Product Information
+
+Detailed information on product.
+
+#### Technical Information
+
+Specific information on the material to showing it speciality and eco-friendly sources.
+
+### Contact Page
+
+#### Contact Form
+
+#### Further Contact Information
+
+Information including phone, email and address with google maps
+
+#### Form Confirmation
+
+### Future Features
+
++ A buy now feature 
+
++ more products under a product gallery
+
++ Product options such as colour, size and quantity
+
+---
+
+## Technologies Used
+
++ [HTML5]()
++ [CSS]()
++ [Balsamic]()
++ [Coolers.co]()
++ [Google Fonts]()
++ [Font Awesome]()
++ [Chrome Developer Tools]()
++ [GitHub]()
++ [GitPod]()
++ [Multi Device Mock Up Generator]()
++ [Bootstrap]()
+
+---
+
+## Testing
+
+To see what tools I used and how I overcame bugs and flaws in my devlopment journey of the Fiber Active site please [click here](testing.md) 
+
+## Deployment
+
+The site was deployed to GitHub pages.
+
+## Credits
+
+### Content
+
++ Issues 
++ Mentor Harry gave a grat insigt
++ For my README.md I saught inspiration from both [Dave Horrick's repository](https://github.com/DaveyJH/ci-portfolio-one-v4/blob/main/README.md) and [Tasha Taylor Johnsons's Repository](https://github.com/TashaTJ/pawsome-portraits-v4/blob/main/README.md)
+
+
+### Media
+
+obtained from the free photo sites such as 
++ [Pexels]() for BAckground Image
++
++
+
+### Code
+
++ W3schools helped provide some great examples I could use for my own work with modification
++ YouTube 
+
+
+## Acknowlegements
+
+This Site was developed for the purpose of my portfolio 1 Project for the full stack diploma
++Thanks to Mentor
++ Fiber Active is a fully fictional brand and product
+
+Melany Howell 2022
